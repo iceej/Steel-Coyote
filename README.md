@@ -13,5 +13,3 @@ Download
 edit settings File to fit your profile
 enter all real info for max use!
 Run and follow on screen commands
-=============================================
-
