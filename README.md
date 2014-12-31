@@ -6,7 +6,9 @@ read-me and OG code by: Icee_J
 ===================================================
 Steam chat bot that just talks and is a friend with simple commands
 
-===============How to use====================
+
+HOW TO USE:
+===================================
 Download
 edit settings File to fit your profile
 enter all real info for max use!
